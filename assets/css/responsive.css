@@ -1,0 +1,150 @@
+@media screen and (max-width: 1100px) {
+    #about {
+        margin-top: -30px;
+    }
+    .service-text {
+        padding-top: 40px;
+    }
+
+}
+@media screen and (max-width: 991.99px) {
+    .service-text {
+        padding-top: 0px;
+    }
+}
+@media screen and (max-width:767.99px) {
+    section#top-header .top-left {
+        text-align: center;
+    }
+    section#top-header .top-right {
+        text-align: center;
+    }
+    .carousel-caption h5 {
+        font-size: 30px;
+    }
+    .carousel-caption .btn {
+        padding: 7px 26px;
+    }
+    #about {
+        margin-top: 60px;
+        padding-bottom: 35px;
+    }
+    .about-single {
+        margin-bottom: 30px;
+    }
+    #services {
+        padding: 30px 0 60px 0;
+    }
+    #services img {
+        display: none;
+    }
+    #process-step {
+        padding: 60px 0;
+    }
+    .step-single {
+        margin-bottom: 00px;
+    }
+    #gallery {
+        padding: 60px 0;
+    }
+    #testimonial {
+        padding: 60px 0;
+    }
+    #blog {
+        padding: 60px 0;
+    }
+    .post-single {
+        margin-bottom: 30px;
+    }
+    .footer-single {
+        margin-bottom: 40px;
+    }
+    #breadcrumb {
+        padding: 60px 0!important;
+    }
+}
+@media screen and (max-width: 576.99px) {
+    section#top-header {
+        display: none;
+    }
+    .carousel-caption h5 {
+        font-size: 21px;
+    }
+    .carousel-control-next, .carousel-control-prev {
+        width: 50px;
+        height: 50px;
+    }
+    .carousel-caption .btn {
+        padding: 7px 25px;
+        border-radius: 25px;
+        margin-top: 5px;
+    }
+    footer#footer {
+        color: #f1f1f1;
+        padding: 50px 0 30px 0;
+    }
+    .footer-bottom {
+        margin: 20px 0 0 0;
+    }
+}
+
+
+
+
+/**************************************************
+About Page Style
+**************************************************/
+@media screen and (max-width:767.99px) {
+    #team {
+        padding: 60px 0;
+    }
+    .team-single {
+        margin-bottom: 20px;
+    }
+}
+
+
+<<<<<<< HEAD
+
+
+/**************************************************
+Services Page Style
+**************************************************/
+@media screen and (max-width:767.99px) {
+    #services {
+        padding: 60px 0;
+    }
+}
+
+
+
+
+/**************************************************
+Contact Page Style
+**************************************************/
+@media screen and (max-width:767.99px) {
+    #contact-form {
+        padding: 60px 0 0 0;
+    }
+    .form {
+        margin-bottom: 60px;
+    }
+}
+=======
+}
+@media screen and (max-width:767.99px) {
+    .footer-single {
+        margin-bottom: 40px;
+    }
+}
+@media screen and (max-width: 576.99px) {
+    footer#footer {
+        color: #f1f1f1;
+        padding: 50px 0 30px 0;
+    }
+    .footer-bottom {
+        margin: 20px 0 0 0;
+    }
+}
+
+>>>>>>> 3aae94e8ef3621d2ada76afe80f2ade17f1b083c
